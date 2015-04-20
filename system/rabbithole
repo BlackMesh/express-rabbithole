@@ -29,8 +29,8 @@
 
 
 NAME=rabbithole
-SOURCE_DIR=/var/www/express-rabbithole
-SOURCE_FILE=app.js
+SOURCE_DIR=/var/www/express-rabbithole/bin
+SOURCE_FILE=www
 
 # Create a config fith the following contents
 # And put in /etc/default/rabbithole
